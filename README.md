@@ -167,6 +167,7 @@ selected movie.
 ``` python
 recommend('Batman Begins')
 ```
+![Movie Recommendation Output](recommendation-output.png)
 
 The system compares `Batman Begins` with other movies using cosine
 similarity and returns the most similar movies.
